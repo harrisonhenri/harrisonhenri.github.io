@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/index.html/static/css/main.5d01af78.chunk.css",
+    "main.js": "/index.html/static/js/main.f95a5a25.chunk.js",
+    "main.js.map": "/index.html/static/js/main.f95a5a25.chunk.js.map",
+    "runtime-main.js": "/index.html/static/js/runtime-main.0a511a5d.js",
+    "runtime-main.js.map": "/index.html/static/js/runtime-main.0a511a5d.js.map",
+    "static/js/2.50f4a800.chunk.js": "/index.html/static/js/2.50f4a800.chunk.js",
+    "static/js/2.50f4a800.chunk.js.map": "/index.html/static/js/2.50f4a800.chunk.js.map",
+    "index.html": "/index.html/index.html",
+    "precache-manifest.363f5f64aa4936b6dca514fea150172f.js": "/index.html/precache-manifest.363f5f64aa4936b6dca514fea150172f.js",
+    "service-worker.js": "/index.html/service-worker.js",
+    "static/css/main.5d01af78.chunk.css.map": "/index.html/static/css/main.5d01af78.chunk.css.map",
+    "static/js/2.50f4a800.chunk.js.LICENSE.txt": "/index.html/static/js/2.50f4a800.chunk.js.LICENSE.txt",
+    "static/media/eu.jpeg": "/index.html/static/media/eu.c05cfcea.jpeg",
+    "static/media/index.css": "/index.html/static/media/firacode-medium.f18fd1b3.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0a511a5d.js",
+    "static/js/2.50f4a800.chunk.js",
+    "static/css/main.5d01af78.chunk.css",
+    "static/js/main.f95a5a25.chunk.js"
+  ]
+}

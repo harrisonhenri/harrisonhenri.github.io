@@ -1,0 +1,10 @@
+:root {
+  --space-base: 7px;
+  --space-large: 25px;
+  --space-small: 3px;
+
+  --print-space: 110px;
+
+  --screenLarge: 1180px;
+  --screenSmall: 90%;
+}

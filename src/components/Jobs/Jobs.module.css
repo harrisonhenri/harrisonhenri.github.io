@@ -1,0 +1,15 @@
+.Jobs {
+  margin: calc(var(--space-large) * 2) 0;
+}
+
+.list {
+  margin-top: calc(var(--space-large) * 2);
+}
+
+.item {
+  margin-top: calc(var(--space-large) * 2);
+}
+
+.employ {
+  font-weight: var(--weight-bold);
+}

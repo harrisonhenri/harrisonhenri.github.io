@@ -1,0 +1,23 @@
+:root {
+  /* Colors */
+  --first: #303841;
+  --first-dark: #000306;
+  --first-ligth: #3a4750;
+
+  --second: #d72323;
+  --third: #f8fdff;
+
+  --sepia: #d8c679;
+  --sepia-dark: #695e2c;
+
+  --black-full: #000;
+  --black-half: rgba(0, 0, 0, 0.42);
+  --black-glass: rgba(0, 0, 0, 0.06);
+  
+  --grey-base: #808891;
+  --grey-dark: #414950;
+  --grey-light: #b0b8c1;
+  --white-full: #fff;
+
+  --link: #105b8a;
+}

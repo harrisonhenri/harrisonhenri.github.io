@@ -1,0 +1,22 @@
+@import './theme/normalize.css';
+@import './theme/colors.css';
+@import './theme/measures.css';
+@import './theme/effects.css';
+@import './theme/typography.css';
+@import './theme/font-face.css';
+
+html,
+body {
+  background: var(--white-full);
+  background-image: var(--stripes-black);
+  font-smooth: always;
+  font-family: var(--font-base);
+  color: var(--first-dark);
+  font-size: var(--size-base);
+  font-weight: var(--weight-medium);
+  height: 100%;
+}
+
+@page {
+  margin: 0.5cm;
+}
