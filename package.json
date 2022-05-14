@@ -2,7 +2,7 @@
   "name": "cv-harrison",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://harrisonhenri.github.io",
+  "homepage": "https://harrisonhenri.github.io/index.html",
   "dependencies": {
     "@formatjs/intl-relativetimeformat": "^4.4.0",
     "gh-pages": "^2.1.1",
