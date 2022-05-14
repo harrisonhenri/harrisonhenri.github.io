@@ -18,7 +18,7 @@ const IconDevTo = props => {
 IconDevTo.defaultProps = {
   viewBox: {
     minX: 0,
-    minY: 0,
+    minY: -2,
     width: 32,
     height: 32,
   },
