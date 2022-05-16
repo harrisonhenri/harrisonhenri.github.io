@@ -2,6 +2,12 @@ import { LTDA } from '../../constants/ltda';
 
 const jobs_enUS = {
   title: 'Work experience',
+  [LTDA.BLUMED]: {
+    company: 'BluMed',
+    employ: 'Partner and enginner',
+    date: 'started in april of 2022 until now',
+    description: '',
+  },
   [LTDA.PEDEPRONTO]: {
     company: 'PEDEPRONTO',
     employ: 'Full Stack enginner',

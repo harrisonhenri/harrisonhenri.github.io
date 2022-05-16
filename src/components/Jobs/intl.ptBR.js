@@ -2,6 +2,12 @@ import { LTDA } from '../../constants/ltda';
 
 const jobs_ptBR = {
   title: 'Work experience',
+  [LTDA.BLUMED]: {
+    company: 'BluMed',
+    employ: 'Engenheiro e sócio',
+    date: 'início em abril of 2022 até hoje',
+    description: '',
+  },
   [LTDA.PEDEPRONTO]: {
     company: 'PEDEPRONTO',
     employ: 'Desenvolvedor Fullstack pleno',

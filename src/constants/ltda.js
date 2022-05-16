@@ -1,4 +1,5 @@
 const LTDA = Object.freeze({
+  BLUMED: 'BLUMED',
   PEDEPRONTO: 'PEDEPRONTO',
   ONYO: 'ONYO',
   FALCAO: 'FALCAO',
