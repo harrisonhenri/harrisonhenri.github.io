@@ -18,6 +18,7 @@ const jobs_enUS = {
   },
   [LTDA.FALCAO]: {
     company: 'Falcão Rios Advocacy & Associate Lawyers',
+    employ: 'Intern',
     date: 'between may and jully of 2020',
     description:
       'Development and support intern using PHP, NodeJs and Python with a focus on web automation.',
