@@ -6,7 +6,7 @@ const jobs_ptBR = {
     company: 'BluMed',
     employ: 'Engenheiro e sócio',
     date: 'início em abril of 2022 até hoje',
-    description: '',
+    description: 'Engenheiro e sócio.',
   },
   [LTDA.PEDEPRONTO]: {
     company: 'PEDEPRONTO',
