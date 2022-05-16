@@ -6,7 +6,7 @@ const jobs_enUS = {
     company: 'BluMed',
     employ: 'Partner and enginner',
     date: 'started in april of 2022 until now',
-    description: 'Partner and enginner',
+    description: 'Partner and enginner.',
   },
   [LTDA.PEDEPRONTO]: {
     company: 'PEDEPRONTO',
