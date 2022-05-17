@@ -39,7 +39,6 @@ const STACK = Object.freeze({
     ES2015: 'ES2015',
     HTML: 'HTML',
     CSS: 'CSS',
-    SASS: 'SASS',
     CSS_MODULES: 'CSS_MODULES',
     TYPE_SCRIPT: 'TYPE_SCRIPT',
     ESLINT: 'ESLINT',
