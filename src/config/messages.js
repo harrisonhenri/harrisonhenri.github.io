@@ -19,7 +19,21 @@ const messages = Object.freeze({
     jobs: jobs_enUS,
     icon: icon_enUS,
   },
+  en: {
+    app: app_enUS,
+    header: header_enUS,
+    stack: stack_enUS,
+    jobs: jobs_enUS,
+    icon: icon_enUS,
+  },
   'pt-BR': {
+    app: app_ptBR,
+    header: header_ptBR,
+    stack: stack_ptBR,
+    jobs: jobs_ptBR,
+    icon: icon_ptBR,
+  },
+  pt: {
     app: app_ptBR,
     header: header_ptBR,
     stack: stack_ptBR,
