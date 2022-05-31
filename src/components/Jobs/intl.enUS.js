@@ -6,7 +6,8 @@ const jobs_enUS = {
     company: 'BluMed',
     employ: 'Partner and enginner',
     date: 'started in april of 2022 until now',
-    description: 'Partner and enginner.',
+    description:
+      'Partner and engineer responsable for managing all the solutions as well as the all infrastructure of the platform.',
   },
   [LTDA.PEDEPRONTO]: {
     company: 'PEDEPRONTO',

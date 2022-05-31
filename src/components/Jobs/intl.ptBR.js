@@ -6,7 +6,8 @@ const jobs_ptBR = {
     company: 'BluMed',
     employ: 'Engenheiro e sócio',
     date: 'início em abril of 2022 até hoje',
-    description: 'Engenheiro e sócio.',
+    description:
+      'Sócio e engenheiro responsável gerencias todas as soluções digitais assim como toda a infrastrutura da platforma.',
   },
   [LTDA.PEDEPRONTO]: {
     company: 'PEDEPRONTO',
