@@ -7,7 +7,7 @@ const jobs_ptBR = {
     employ: 'Engenheiro e sócio',
     date: 'início em abril of 2022 até hoje',
     description:
-      'Sócio e engenheiro responsável gerencias todas as soluções digitais assim como toda a infrastrutura da platforma.',
+      'Sócio e engenheiro responsável gerenciar todas as soluções digitais assim como toda a infrastrutura da platforma.',
   },
   [LTDA.PEDEPRONTO]: {
     company: 'PEDEPRONTO',
