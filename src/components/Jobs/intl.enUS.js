@@ -7,7 +7,7 @@ const jobs_enUS = {
     employ: 'Partner and enginner',
     date: 'started in april of 2022 until now',
     description:
-      'Partner and engineer responsable for managing all the solutions as well as the all infrastructure of the platform using React, React Native, NodeJs, Typescript, Vercel and MongoDb',
+      'Partner and engineer responsable for managing all the solutions as well as the all infrastructure of the platform using React, React Native, NodeJs, Typescript, Vercel and MongoDb.',
   },
   [LTDA.PEDEPRONTO]: {
     company: 'PEDEPRONTO',
