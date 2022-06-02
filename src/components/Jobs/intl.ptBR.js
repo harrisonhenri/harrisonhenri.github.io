@@ -7,14 +7,14 @@ const jobs_ptBR = {
     employ: 'Engenheiro e sócio',
     date: 'início em abril of 2022 até hoje',
     description:
-      'Sócio e engenheiro responsável gerenciar todas as soluções digitais assim como toda a infrastrutura da platforma.',
+      'Sócio e engenheiro responsável gerenciar todas as soluções digitais assim como toda a infrastrutura da platforma usando React, React Native, NodeJs, Typescript, Vercel e MongoDb.',
   },
   [LTDA.PEDEPRONTO]: {
     company: 'PEDEPRONTO',
     employ: 'Desenvolvedor Fullstack pleno',
     date: 'início em outubro de 2021 até hoje',
     description:
-      'Desenvolvedor full-stack pleno atuando no time de onboarding do Pede Pronto (unidade de negócios da Alelo S.A) usando as seguintes tecnologias: React, React testing library, Apollo, Graphql, Flask, Material UI, assim como todo o ecossistema do Gcloud e Firebase.',
+      'Desenvolvedor full-stack pleno atuando no time de onboarding do Pede Pronto (unidade de negócios da Alelo S.A) usando as seguintes tecnologias: React, Typescript, React testing library, Apollo, Graphql, Flask, Material UI, assim como todo o ecossistema do Gcloud e Firebase.',
   },
   [LTDA.ONYO]: {
     company: 'ONYO',
