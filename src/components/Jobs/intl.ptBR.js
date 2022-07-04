@@ -12,7 +12,7 @@ const jobs_ptBR = {
   [LTDA.PEDEPRONTO]: {
     company: 'PEDEPRONTO',
     employ: 'Desenvolvedor Fullstack pleno',
-    date: 'início em outubro de 2021 até hoje',
+    date: 'início em outubro de 2020 até hoje',
     description:
       'Desenvolvedor full-stack pleno atuando no time de onboarding do Pede Pronto (unidade de negócios da Alelo S.A) usando as seguintes tecnologias: React, Typescript, React testing library, Apollo, Graphql, Flask, Material UI, assim como todo o ecossistema do Gcloud e Firebase.',
   },

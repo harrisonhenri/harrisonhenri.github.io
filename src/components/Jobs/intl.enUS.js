@@ -12,7 +12,7 @@ const jobs_enUS = {
   [LTDA.PEDEPRONTO]: {
     company: 'PEDEPRONTO',
     employ: 'Full Stack enginner',
-    date: 'started in october of 2021 until now',
+    date: 'started in october of 2020 until now',
     description:
       'Full Stack Engineer working at onboarding squad at Pede Pronto (business unit of Alelo S.A) using the following technologies: React, React testing library, Apollo, Graphql, Flask, Material UI as well as Google Cloud Platform and Firebase technologies.',
   },
