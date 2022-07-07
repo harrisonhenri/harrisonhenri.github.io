@@ -11,7 +11,7 @@ const header_ptBR = {
   bio: {
     title: 'Bio',
     paragraph:
-      'Sou um desenvolvedor com experiência na área de Engenharia Elétrica/Eletrônica, Ciência de Dados e Desenvolvimento de Software através de metodologias ágeis, atuando principalmente com as tecnologias: React, Python, Javascript, Nodejs, PostgreSQL e MongoDB. Também trabalhei como consultor na área de modelagem de bombas centrífugas usando redes neurais artificiais e lógica fuzzy como motores de inferência.',
+      'Sou um desenvolvedor com experiência na área de Engenharia Elétrica/Eletrônica, Ciência de Dados e Desenvolvimento de Software através de metodologias ágeis, atuando principalmente com as tecnologias: React, Python, Javascript, Nodejs, PostgreSQL e MongoDB. Tenho a experiência de trabalhar em arquiteturas multi-stack e baseadas em microserviços usando o Kong como API Gateway. Também trabalhei como consultor na área de modelagem matemática usando redes neurais artificiais e lógica fuzzy como motores de inferência.',
   },
 };
 
