@@ -22,6 +22,7 @@ const STACK = Object.freeze({
     SERVERLESS: 'SERVERLESS',
     NODE_JS: 'NODE_JS',
     PYTHON: 'PYTHON',
+    ELIXIR: 'ELIXIR',
     FLASK: 'FLASK',
     POSTGRES: 'POSTGRES',
     MONGO_DB: 'MONGO_DB',

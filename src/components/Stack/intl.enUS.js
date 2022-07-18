@@ -31,6 +31,7 @@ const stack_enUS = {
     [STACK[BACKEND].SERVERLESS]: 'Serverless',
     [STACK[BACKEND].NODE_JS]: 'NodeJS',
     [STACK[BACKEND].PYTHON]: 'Python',
+    [STACK[BACKEND].ELIXIR]: 'Elixir',
     [STACK[BACKEND].FLASK]: 'Flask',
     [STACK[BACKEND].POSTGRES]: 'PostgreSQL',
     [STACK[BACKEND].MONGO_DB]: 'MongoDB',
