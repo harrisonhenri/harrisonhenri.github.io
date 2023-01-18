@@ -43,6 +43,16 @@ const Header = () => {
                 },
               )}
             </li>
+            <li className={style.item}>
+              {formatMessage(
+                {
+                  id: 'header.info.certification',
+                },
+                {
+                  strong: str => <strong key={str}>{str}</strong>,
+                },
+              )}
+            </li>
 
             <li className={style.item}>
               {formatMessage(

@@ -3,11 +3,12 @@ import { SKILLS } from './skills';
 const STACK = Object.freeze({
   [SKILLS.OTHER_SKILLS]: Object.freeze({
     RN: 'RN',
+    MICROSERVICES: 'MICROSERVICES',
+    ARCHITECTURE: 'ARCHITECTURE',
     KOTLIN: 'KOTLIN',
     AWS: 'AWS',
     GCP: 'GCP',
     FIREBASE: 'Firebase',
-    AWS_S3: 'AWS_S3',
     NGINX: 'NGINX',
     DOCKER: 'DOCKER',
     KUBERNETES: 'KUBERNETES',

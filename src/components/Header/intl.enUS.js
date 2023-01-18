@@ -5,13 +5,14 @@ const header_enUS = {
     location: 'Salvador - BA',
     formation:
       '<strong>Formation:</strong> Eletronic Enginner - UFBA (Salvador - BA) - 2014/2021',
+    certification: '<strong>Certifications:</strong> AWS Solutions Architect',
     employ:
-      '<strong>Current role:</strong> Full-stack enginner at <company>Alelo S.A</company>',
+      '<strong>Current role:</strong> Senior engineer at <company>Compass UOL</company>',
   },
   bio: {
     title: 'Bio',
     paragraph:
-      'I am a enginner with experience in the area of Electrical/Eletronics Engineering, Data Science and Software Development through agile methodologies, working mainly with the technologies: React, Python, Javascript, Nodejs, PostgreSQL and MongoDB. I have experience working on multi-stack and microservice-based architectures using Kong as API Gateway. I have also worked as a consultant in the field of mathematical modelling using artificial neural networks and fuzzy logic as inference engines.',
+      'I am senior engineer with experience in Data Science and Software Development through agile methodologies, working mainly with the technologies: React, React Native, Python, Javascript, Typescript, Nodejs, Oracle Database, PostgreSQL and MongoDB. I have experience working with multi-stack and microservice-based architectures. I have also worked as a consultant in the field of mathematical modelling using artificial neural networks and fuzzy logic as inference engines.',
   },
 };
 

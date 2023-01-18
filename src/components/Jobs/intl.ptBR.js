@@ -1,7 +1,14 @@
 import { LTDA } from '../../constants/ltda';
 
 const jobs_ptBR = {
-  title: 'Work experience',
+  title: 'Experiência de trabalho',
+  [LTDA.COMPASS_UOL]: {
+    company: 'Compass UOL',
+    employ: 'Engenheiro Sênior',
+    date: 'início em agosto de 2022 até hoje',
+    description:
+      'Desenvolvedor sênior atuando no time de encarteiramento da PagBank/PagSeguro usando as seguintes tecnologias: React, Next, Node, New Relic, Typescript, React testing library, Jenkins, Java Spring, Java Spring Data, Kafka, Oracle Database, Airflow e SQS. A equipe é responsável pelo encarteiramento diário de centenas de clientes, em uma base de 25 milhões de carteiras. Como engenheiro sênior, também tenho a oportunidade de realizar entrevistas para diversos cargos e senioridades.',
+  },
   [LTDA.BLUMED]: {
     company: 'BluMed',
     employ: 'Engenheiro e sócio',
@@ -12,7 +19,7 @@ const jobs_ptBR = {
   [LTDA.PEDEPRONTO]: {
     company: 'PEDEPRONTO',
     employ: 'Desenvolvedor Fullstack pleno',
-    date: 'início em outubro de 2020 até hoje',
+    date: 'início em outubro à agosto de 2020',
     description:
       'Desenvolvedor full-stack pleno atuando no time de onboarding do Pede Pronto (unidade de negócios da Alelo S.A) usando as seguintes tecnologias: React, Typescript, React testing library, Apollo, Graphql, Flask, Material UI, assim como todo o ecossistema do Gcloud e Firebase. Atualmente a empresa está migrando sua arquitetura para uma arquitetura baseada em microsserviços (usando o Kong como API Gateway)',
   },

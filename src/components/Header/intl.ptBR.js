@@ -5,13 +5,14 @@ const header_ptBR = {
     location: 'Salvador - BA',
     formation:
       '<strong>Formação:</strong> Engenharia Eletrônica - UFBA (Salvador - BA) - 2014/2021',
+    certification: '<strong>Certificados:</strong> AWS Solutions Architect',
     employ:
-      '<strong>Ocupação:</strong> Desenvolvedor Full-stack na <company>PEDEPRONTO</company>',
+      '<strong>Ocupação:</strong> Desenvolvedor sênior na <company>Compass UOL</company>',
   },
   bio: {
     title: 'Bio',
     paragraph:
-      'Sou um desenvolvedor com experiência na área de Engenharia Elétrica/Eletrônica, Ciência de Dados e Desenvolvimento de Software através de metodologias ágeis, atuando principalmente com as tecnologias: React, Python, Javascript, Nodejs, PostgreSQL e MongoDB. Tenho a experiência de trabalhar em arquiteturas multi-stack e baseadas em microserviços usando o Kong como API Gateway. Também trabalhei como consultor na área de modelagem matemática usando redes neurais artificiais e lógica fuzzy como motores de inferência.',
+      'Sou engenheiro sênior com experiência na área de Ciência de Dados e Desenvolvimento de Software através de metodologias ágeis, trabalhando principalmente com as tecnologias: React, React Native, Python, Javascript, Typescript, Nodejs, Oracle Database, PostgreSQL e MongoDB. Tenho experiência em trabalhar com arquiteturas multi-stack e baseadas em microsserviços. Também trabalhei como consultor na área de modelagem matemática usando redes neurais artificiais e lógica fuzzy como motores  de inferência.',
   },
 };
 
