@@ -7,7 +7,7 @@ const jobs_ptBR = {
     employ: 'Engenheiro Sênior',
     date: 'início em agosto de 2022 até hoje',
     description:
-      'Desenvolvedor sênior atuando no time de encarteiramento da PagBank usando as seguintes tecnologias: React, NextJS, Node, New Relic, Typescript, React testing library, Jenkins, Java Spring, Java Spring Data, Kafka, Oracle Database, Airflow e SQS. A equipe é responsável pelo encarteiramento diário de centenas de clientes, em uma base de 25 milhões de carteiras. Como engenheiro sênior, também tenho a oportunidade de conduzir entrevistas para diversos cargos e senioridades.',
+      'Engenheiro de software sênior atuando no time de encarteiramento da PagBank/PagSeguro usando as seguintes tecnologias: React, Next, Node, New Relic, Typescript, React testing library, Jenkins, Java Spring, Java Spring Data, Kafka, Oracle Database, Airflow e SQS. A equipe é responsável pelo encarteiramento diário de centenas de clientes, em uma base de cerca de 30 milhões de carteiras. Nessa posição também tenho a oportunidade de entrevistar diversos candidatos para as diferentes posições da empresa.',
   },
   [LTDA.BLUMED]: {
     company: 'BluMed',
@@ -18,10 +18,10 @@ const jobs_ptBR = {
   },
   [LTDA.PEDEPRONTO]: {
     company: 'PEDEPRONTO',
-    employ: 'Desenvolvedor Fullstack pleno',
+    employ: 'Engenheiro Fullstack pleno',
     date: 'início em outubro à agosto de 2020',
     description:
-      'Desenvolvedor full-stack pleno atuando no time de onboarding do Pede Pronto (unidade de negócios da Alelo S.A) usando as seguintes tecnologias: React, Typescript, React testing library, Apollo, Graphql, Flask, Material UI, assim como todo o ecossistema do Gcloud e Firebase. Atualmente a empresa está migrando sua arquitetura para uma arquitetura baseada em microsserviços (usando o Kong como API Gateway)',
+      'Engenheiro full-stack pleno atuando no time de onboarding do Pede Pronto (unidade de negócios da Alelo S.A) usando as seguintes tecnologias: React, React testing library, Apollo, Graphql, Flask, Material UI, assim como toda infrastrutura do GCP e Firebase. Atualmente a empresa está migrando sua arquitetura para uma arquitetura baseada em microsserviços (usando o kong como API Gateway).',
   },
   [LTDA.ONYO]: {
     company: 'ONYO',
@@ -35,7 +35,7 @@ const jobs_ptBR = {
     employ: 'Estagiário',
     date: 'entre maio e junho de 2020',
     description:
-      'Estagiário de desenvolvimento e suporte utilizando PHP, NodeJs e Python com foco em automação web.',
+      'Estagiário de desenvolvimento utilizando PHP, NodeJs e Python com foco em automação web.',
   },
   [LTDA.LLAB]: {
     company: 'LLAB Soluções em Tratamento de Dados LTDA',

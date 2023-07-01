@@ -7,7 +7,7 @@ const jobs_enUS = {
     employ: 'Senior engineer',
     date: 'started in august of 2022 until now',
     description:
-      "Senior developer working in the portfolio's team of PagBank using the following technologies: React, NextJS, Node, New Relic, Typescript, React testing library, Jenkins, Java Spring, Java Spring Data, Kafka, Oracle Database, Airflow and SQS. The team is responsible for the daily categorization of hundreds of customers, on a basis of 25 million portfolios. As a senior engineer I also have the opportunity to conduct interview for many positions and seniorities.",
+      "Senior engineer working in the PagBank's portfolio team using the following technologies: React, Next, Node, New Relic, Typescript, React testing library, Jenkins, Java Spring, Java Spring Data, Kafka, Oracle Database, Airflow and SQS. The team is responsible for the daily categorization of hundreds of customers, on a basis of around 30 million portfolios. As a senior engineer I also have the opportunity to conduct interview for many positions and seniorities.",
   },
   [LTDA.BLUMED]: {
     company: 'BluMed',
@@ -21,7 +21,7 @@ const jobs_enUS = {
     employ: 'Full Stack engineer',
     date: 'started in october of 2020 until august of 2022',
     description:
-      'Full Stack Engineer working at onboarding squad at Pede Pronto (business unit of Alelo S.A) using the following technologies: React, React testing library, Apollo, Graphql, Flask, Material UI as well as Google Cloud Platform and Firebase technologies. Nowadays the company is migrating to microservice and multi-stack based architecture (using Kong as API Gateway).',
+      "Full Stack Engineer working in the Pede Pronto's onboarding team (business unit of Alelo S.A) using the following technologies: React, React testing library, Apollo, Graphql, Flask, Material UI as well as Google Cloud Platform and Firebase technologies. Nowadays the company is migrating its architecture for a microservice and multi-stack based architecture (using the kong as API Gateway).",
   },
   [LTDA.ONYO]: {
     company: 'ONYO',
@@ -35,7 +35,7 @@ const jobs_enUS = {
     employ: 'Intern',
     date: 'between may and jully of 2020',
     description:
-      'Development and support intern using PHP, NodeJs and Python with a focus on web automation.',
+      'Development intern using PHP, NodeJs and Python with a focus on web automation.',
   },
   [LTDA.LLAB]: {
     company: 'LLAB Data Processing Solutions LTDA',
@@ -49,7 +49,7 @@ const jobs_enUS = {
     employ: 'Consultant and intern researcher',
     date: 'between 2014 and 2020',
     description:
-      'Machine learning consultant and researcher in the area of control and automation. As a consultant, helped students of the Graduate Program in Industrial Engineering (PEI) using techniques such as neural networks and fuzzy logic. In this period, published two articles appoaching uncertainty avaliation and particle swarm optimization. Also participated in the development of a predictive control module in Matlab.',
+      'Machine learning consultant and researcher in the area of control and automation. As a consultant, helped students of the Graduate Program in Industrial Engineering (PEI) using techniques such as neural networks and fuzzy logic. In this period, published two articles appoaching uncertainty avaliation and particle swarm optimization and also helped in the development of a predictive control module in Matlab.',
   },
 };
 
