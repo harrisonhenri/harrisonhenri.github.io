@@ -3,7 +3,7 @@ import { LTDA } from './ltda';
 
 const LINKS = Object.freeze({
   [LTDA.SELF]: Object.freeze({
-    [LTDA.PEDEPRONTO]: 'https://www.pedepronto.com.br',
+    [LTDA.COMPASS_UOL]: 'https://compass.uol',
   }),
   [ME.SELF]: Object.freeze({
     [ME.EMAIL]: 'mailto:harrisohenrisn@gmail.com',

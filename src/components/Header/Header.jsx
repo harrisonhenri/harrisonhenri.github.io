@@ -64,7 +64,7 @@ const Header = () => {
                   company: str => (
                     <a
                       className={style.link}
-                      href={LINKS[LTDA.SELF][LTDA.PEDEPRONTO]}
+                      href={LINKS[LTDA.SELF][LTDA.COMPASS_UOL]}
                       target="_blank"
                       rel="noopener noreferrer">
                       {str}
