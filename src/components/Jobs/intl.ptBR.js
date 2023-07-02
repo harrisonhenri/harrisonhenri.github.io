@@ -7,7 +7,7 @@ const jobs_ptBR = {
     employ: 'Engenheiro Sênior',
     date: 'início em agosto de 2022 até hoje',
     description:
-      'Engenheiro de software sênior atuando no time de encarteiramento da PagBank/PagSeguro usando as seguintes tecnologias: React, Next, Node, New Relic, Typescript, React testing library, Jenkins, Java Spring, Java Spring Data, Kafka, Oracle Database, Airflow e SQS. A equipe é responsável pelo encarteiramento diário de centenas de clientes, em uma base de cerca de 30 milhões de carteiras. Nessa posição também tenho a oportunidade de entrevistar diversos candidatos para as diferentes posições da empresa.',
+      'Engenheiro de software sênior atuando no time de encarteiramento da PagBank/PagSeguro usando as seguintes tecnologias: React, Next, Node, New Relic, Typescript, React testing library, Jenkins, Spring Boot, Spring Boot Data, Kafka, Oracle Database, Airflow e SQS. A equipe é responsável pelo encarteiramento diário de centenas de clientes, em uma base de cerca de 30 milhões de carteiras. Nessa posição também tenho a oportunidade de entrevistar diversos candidatos para as diferentes posições da empresa.',
   },
   [LTDA.BLUMED]: {
     company: 'BluMed',

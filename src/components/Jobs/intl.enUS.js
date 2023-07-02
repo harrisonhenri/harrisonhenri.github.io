@@ -7,7 +7,7 @@ const jobs_enUS = {
     employ: 'Senior engineer',
     date: 'started in august of 2022 until now',
     description:
-      "Senior engineer working in the PagBank's portfolio team using the following technologies: React, Next, Node, New Relic, Typescript, React testing library, Jenkins, Java Spring, Java Spring Data, Kafka, Oracle Database, Airflow and SQS. The team is responsible for the daily categorization of hundreds of customers, on a basis of around 30 million portfolios. As a senior engineer I also have the opportunity to conduct interview for many positions and seniorities.",
+      "Senior engineer working in the PagBank's portfolio team using the following technologies: React, Next, Node, New Relic, Typescript, React testing library, Jenkins, Spring Boot, Spring Boot Data, Kafka, Oracle Database, Airflow and SQS. The team is responsible for the daily categorization of hundreds of customers, on a basis of around 30 million portfolios. As a senior engineer I also have the opportunity to conduct interview for many positions and seniorities.",
   },
   [LTDA.BLUMED]: {
     company: 'BluMed',
