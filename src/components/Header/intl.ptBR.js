@@ -6,7 +6,7 @@ const header_ptBR = {
     formation:
       '<strong>Formação:</strong> Engenharia Eletrônica - UFBA (Salvador - BA) - 2014/2020',
     certification:
-      '<strong>Certificados:</strong> AWS Solutions Architect, Ignite, Full Cycle, Data Science Codenation.',
+      '<strong>Certificados: </strong> AWS Solutions Architect, Ignite, Full Cycle, Data Science Codenation.',
     employ:
       '<strong>Ocupação:</strong> Engenheiro de software sênior na <company>Compass UOL</company>',
   },
