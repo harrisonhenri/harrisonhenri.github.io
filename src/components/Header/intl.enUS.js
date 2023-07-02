@@ -5,7 +5,8 @@ const header_enUS = {
     location: 'Salvador - BA',
     formation:
       '<strong>Formation:</strong> Eletronic Enginner - UFBA (Salvador - BA) - 2014/2020',
-    certification: '<strong>Certifications:</strong> AWS Solutions Architect',
+    certification:
+      '<strong>Certifications:</strong> AWS Solutions Architect, Ignite, Full Cycle, Data Science Codenation.',
     employ:
       '<strong>Current role:</strong>Senior engineer at <company>Compass UOL</company>',
   },
