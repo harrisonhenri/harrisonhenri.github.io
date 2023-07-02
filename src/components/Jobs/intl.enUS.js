@@ -42,7 +42,7 @@ const jobs_enUS = {
     employ: 'Intern',
     date: 'between february of 2019 and march of 2020',
     description:
-      'Front-end and back-end intern using HTML5, CSS3 and Javascript libraries, as well as R Shiny and MongoDB libraries for creating Web Apps and ERPs with a focus on the application of machine learning.',
+      'Development intern using HTML5, CSS3 and Javascript libraries, as well as R Shiny and MongoDB libraries for creating Web Apps and ERPs with a focus on the application of machine learning and user experience.',
   },
   [LTDA.UFBA]: {
     company: 'FEDERAL UNIVERSITY OF BAHIA',
