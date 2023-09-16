@@ -1,4 +1,5 @@
 const LTDA = Object.freeze({
+  VR: 'VR',
   COMPASS_UOL: 'COMPASS UOL',
   BLUMED: 'BLUMED',
   PEDEPRONTO: 'PEDEPRONTO',

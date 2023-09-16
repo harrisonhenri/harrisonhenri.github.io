@@ -2,12 +2,17 @@ import { LTDA } from '../../constants/ltda';
 
 const jobs_ptBR = {
   title: 'Experiência de trabalho',
+  [LTDA.VR]: {
+    company: 'VR',
+    employ: 'Especialista em Sistemas I',
+    date: 'início em setembro de 2023 até hoje',
+  },
   [LTDA.COMPASS_UOL]: {
     company: 'Compass UOL',
     employ: 'Engenheiro Sênior',
-    date: 'início em agosto de 2022 até hoje',
+    date: 'início em agosto de 2022 à agosto de 2023',
     description:
-      'Engenheiro de software sênior atuando no time de encarteiramento da PagBank/PagSeguro usando as seguintes tecnologias: React, Next, Node, New Relic, Typescript, React testing library, Jenkins, Spring Boot, Spring Boot Data, Kafka, Oracle Database, Airflow e SQS. A equipe é responsável pelo encarteiramento diário de centenas de clientes, em uma base de cerca de 30 milhões de carteiras. Nessa posição também tenho a oportunidade de entrevistar diversos candidatos para as diferentes posições da empresa.',
+      'Engenheiro de software sênior atuando no time de encarteiramento da PagBank/PagSeguro usando as seguintes tecnologias: React, Next, Node, New Relic, Typescript, React testing library, Jenkins, Spring Boot, Spring Boot Data, Kafka, Oracle Database, Airflow e SQS. A equipe é responsável pelo encarteiramento diário de centenas de clientes, em uma base de cerca de 30 milhões de carteiras. Nessa posição também tive a oportunidade de: realizar a sustenção de apis usando Kotlin e Spring Boot 2, manter Pipelines do Jenkis, criar funcionalidades utilizando Spring Boot, Spring Boot Data, Kafka e DAGS do Airflow, assim como criar componentes e layouts utilizando React e NextJs. Também tive a oportunidade de entrevistar diversos candidatos para as diferentes posições da empresa.',
   },
   [LTDA.BLUMED]: {
     company: 'BluMed',
