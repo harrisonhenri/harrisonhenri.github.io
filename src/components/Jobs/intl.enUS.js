@@ -6,6 +6,7 @@ const jobs_enUS = {
     company: 'VR Benefícios',
     employ: 'Systems Specialist I',
     date: 'started in september of 2023 until now',
+    description: '',
   },
   [LTDA.COMPASS_UOL]: {
     company: 'Compass UOL',
