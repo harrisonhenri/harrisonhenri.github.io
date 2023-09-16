@@ -13,7 +13,7 @@ const header_enUS = {
   bio: {
     title: 'Bio',
     paragraph:
-      'I am senior engineer with experience in Data Science and Software Development through agile methodologies, working mainly with the technologies: React, React Native, RabbitMQ, Kafka, Python, Java, Spring Boot, Spring Data, Javascript, Typescript, Nodejs, Oracle Database, PostgreSQL and MongoDB. I have experience working with multi-stack and microservice-based architectures. I have also worked as a consultant in the field of mathematical modelling using artificial neural networks and fuzzy logic as inference engines.',
+      'I am a senior engineer with experience in Data Science and Software Development through agile methodologies, working mainly with the technologies: React, React Native, RabbitMQ, Kafka, Airflow, AWS Redshift, Python, Java, Spring Boot, Spring Data, Javascript, Typescript, Nodejs, Oracle Database, PostgreSQL and MongoDB. I have experience working with multi-stack and microservice-based architectures. I have also worked as a consultant in the field of mathematical modelling using artificial neural networks and fuzzy logic as inference engines.',
   },
 };
 
