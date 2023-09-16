@@ -1,5 +1,5 @@
 const LTDA = Object.freeze({
-  VR: 'VR Benefícios',
+  VR: 'VR',
   COMPASS_UOL: 'COMPASS UOL',
   BLUMED: 'BLUMED',
   PEDEPRONTO: 'PEDEPRONTO',
