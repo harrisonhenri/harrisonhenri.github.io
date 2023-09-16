@@ -6,7 +6,7 @@ const jobs_ptBR = {
     company: 'VR Benefícios',
     employ: 'Especialista em Sistemas I',
     date: 'início em setembro de 2023 até hoje',
-    description: '',
+    description: ' ',
   },
   [LTDA.COMPASS_UOL]: {
     company: 'Compass UOL',
