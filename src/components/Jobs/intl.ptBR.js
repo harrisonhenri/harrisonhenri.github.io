@@ -3,7 +3,7 @@ import { LTDA } from '../../constants/ltda';
 const jobs_ptBR = {
   title: 'Experiência de trabalho',
   [LTDA.VR]: {
-    company: 'VR',
+    company: 'VR Benefícios',
     employ: 'Especialista em Sistemas I',
     date: 'início em setembro de 2023 até hoje',
   },
