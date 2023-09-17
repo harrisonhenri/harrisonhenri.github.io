@@ -31,7 +31,7 @@ const jobs_ptBR = {
   },
   [LTDA.ONYO]: {
     company: 'ONYO',
-    employ: 'Desenvolvedor Front-end',
+    employ: 'Desenvolvedor front-end',
     date: 'entre Julho de 2020 à Setembro de 2020',
     description:
       'Desenvolvedor front-end utilizando React e Typescript para criação de um web-app administrativo para os estabelecimentos comerciais da plataforma.',
