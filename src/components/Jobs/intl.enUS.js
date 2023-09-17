@@ -10,7 +10,7 @@ const jobs_enUS = {
   },
   [LTDA.COMPASS_UOL]: {
     company: 'Compass UOL',
-    employ: 'Senior Fullstack engineer',
+    employ: 'Senior full stack engineer',
     date: 'started in august of 2022 until august of 2023',
     description:
       "Senior engineer working in the PagBank's portfolio team using the following technologies: React, Next, Node, New Relic, Typescript, React testing library, Jenkins, Spring Boot, Spring Data, Kafka, Oracle Database, Airflow and SQS. The team is responsible for the daily categorization of hundreds of customers, on a basis of around 30 million portfolios. As a senior engineer I had the opportunity of: mantain apis using Kotlin, Spring Boot 2; mantain and create Jenkins pipelines; create features using Spring Boot, Spring Data, Kafka and Airflow DAGS, as well as create components and layouts using React e NextJs. I also had the opportunity to conduct interviews for many positions and seniorities.",
@@ -24,10 +24,10 @@ const jobs_enUS = {
   },
   [LTDA.PEDEPRONTO]: {
     company: 'PEDEPRONTO',
-    employ: 'Full Stack engineer',
+    employ: 'Full stack engineer',
     date: 'started in october of 2020 until august of 2022',
     description:
-      "Full Stack Engineer working in the Pede Pronto's onboarding team (business unit of Alelo S.A) using the following technologies: React, React testing library, Apollo, Graphql, Flask, Material UI as well as Google Cloud Platform and Firebase technologies. Nowadays the company is migrating its architecture for a microservice and multi-stack based architecture (using the kong as API Gateway).",
+      "Full stack Engineer working in the Pede Pronto's onboarding team (business unit of Alelo S.A) using the following technologies: React, React testing library, Apollo, Graphql, Flask, Material UI as well as Google Cloud Platform and Firebase technologies. Nowadays the company is migrating its architecture for a microservice and multi-stack based architecture (using the kong as API Gateway).",
   },
   [LTDA.ONYO]: {
     company: 'ONYO',
