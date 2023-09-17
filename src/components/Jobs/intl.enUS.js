@@ -10,7 +10,7 @@ const jobs_enUS = {
   },
   [LTDA.COMPASS_UOL]: {
     company: 'Compass UOL',
-    employ: 'Senior engineer',
+    employ: 'Senior Fullstack engineer',
     date: 'started in august of 2022 until august of 2023',
     description:
       "Senior engineer working in the PagBank's portfolio team using the following technologies: React, Next, Node, New Relic, Typescript, React testing library, Jenkins, Spring Boot, Spring Data, Kafka, Oracle Database, Airflow and SQS. The team is responsible for the daily categorization of hundreds of customers, on a basis of around 30 million portfolios. As a senior engineer I had the opportunity of: mantain apis using Kotlin, Spring Boot 2; mantain and create Jenkins pipelines; create features using Spring Boot, Spring Data, Kafka and Airflow DAGS, as well as create components and layouts using React e NextJs. I also had the opportunity to conduct interviews for many positions and seniorities.",
