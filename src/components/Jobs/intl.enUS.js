@@ -6,7 +6,8 @@ const jobs_enUS = {
     company: 'VR Benefícios',
     employ: 'Systems Specialist I',
     date: 'started in september of 2023 until now',
-    description: ' ',
+    description:
+      "System specialist working in the Employer Portal using the following technologies: React, Webpack and Federated Modules, Dynatrace, Typescript, React testing library, Jenkins, Spring Boot, Spring Data, Kafka, Oracle Database and Quarkus. As a systems specialist, I was able to help the team improve some engineering processes aligned with industry best practices. I also helped the team delivery the order's microfrontend, the first microfrontend inside the Employer Super Portal.",
   },
   [LTDA.COMPASS_UOL]: {
     company: 'Compass UOL',

@@ -6,7 +6,8 @@ const jobs_ptBR = {
     company: 'VR Benefícios',
     employ: 'Especialista em Sistemas I',
     date: 'início em setembro de 2023 até hoje',
-    description: ' ',
+    description:
+      'Especialista em sistemas atuando no Portal do Empregador utilizando as seguintes tecnologias: React, Webpack e Modulos Federados, Dynatrace, Typescript, Jenkins, Spring Boot, Spring Data, Kafka, Oracle Database e Quarkus. Como especialista em sistemas, pude ajudar a equipe a melhorar alguns processos de engenharia alinhados às melhores práticas do setor. Também ajudei a equipe a entregar o microfrontend do pedido, o primeiro microfrontend dentro do Super Portal Empregador.',
   },
   [LTDA.COMPASS_UOL]: {
     company: 'Compass UOL',
