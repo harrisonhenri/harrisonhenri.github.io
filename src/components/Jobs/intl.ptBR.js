@@ -7,7 +7,7 @@ const jobs_ptBR = {
     employ: 'Especialista em Sistemas I',
     date: 'início em setembro de 2023 até hoje',
     description:
-      'Especialista em sistemas atuando no Portal do Empregador utilizando as seguintes tecnologias: React, Webpack e Modulos Federados, Dynatrace, Typescript, Jenkins, Spring Boot, Spring Data, Kafka, Oracle Database e Quarkus. Como especialista em sistemas, pude ajudar a equipe a melhorar alguns processos de engenharia alinhados às melhores práticas do setor. Também ajudei a equipe a entregar o microfrontend do pedido, o primeiro microfrontend dentro do Super Portal Empregador.',
+      'Especialista em sistemas atuando no Portal do Empregador servindo cerca de 60k de usuários e recebendo 240k de pedidos (R$ 1,5 bilhões de reais) mensais utilizando as seguintes tecnologias: React, Webpack e Modulos Federados, Dynatrace, Typescript, Jenkins, Spring Boot, Spring Data, Kafka, Oracle Database e Quarkus. Como especialista em sistemas, pude ajudar a equipe a melhorar alguns processos de engenharia alinhados às melhores práticas do setor. Também ajudei a equipe a entregar o microfrontend do pedido, o primeiro microfrontend dentro do Super Portal Empregador.',
   },
   [LTDA.COMPASS_UOL]: {
     company: 'Compass UOL',
