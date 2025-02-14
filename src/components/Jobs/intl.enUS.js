@@ -7,7 +7,7 @@ const jobs_enUS = {
     employ: 'Systems Specialist I',
     date: 'started in september of 2023 until now',
     description:
-      "System specialist working in the Employer Portal using the following technologies: React, Webpack and Federated Modules, Dynatrace, Typescript, Jenkins, Spring Boot, Spring Data, Kafka, Oracle Database and Quarkus. As a systems specialist, I was able to help the team improve some engineering processes aligned with industry best practices. I also helped the team delivery the order's microfrontend, the first microfrontend inside the Employer Super Portal.",
+      "System specialist working in the Employer Portal supporting 60k users, processing 240k orders, and generating 1.5 billion reais monthly using the following technologies: React, Webpack and Federated Modules, Dynatrace, Typescript, Jenkins, Spring Boot, Spring Data, Kafka, Oracle Database and Quarkus. As a systems specialist, I was able to help the team improve some engineering processes aligned with industry best practices. I also helped the team delivery the order's microfrontend, the first microfrontend inside the Employer Super Portal.",
   },
   [LTDA.COMPASS_UOL]: {
     company: 'Compass UOL',
