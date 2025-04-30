@@ -5,7 +5,7 @@ const jobs_ptBR = {
   [LTDA.BOTICARIO]: {
     company: 'Grupo Boticário',
     employ: 'Especialista em sistemas',
-    date: 'início em abrild de 2025 até hoje',
+    date: 'início em abril de 2025 até hoje',
     description: 'Especialista em sistemas.',
   },
   [LTDA.VR]: {

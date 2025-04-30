@@ -11,7 +11,7 @@ const jobs_enUS = {
   [LTDA.VR]: {
     company: 'VR Benefícios',
     employ: 'Systems Specialist I',
-    date: 'started in september of 2023 until now',
+    date: 'started in september of 2023 until april of 2025',
     description:
       "System specialist working in the Employer Portal supporting 60k users and processing 240k orders (R$ 1,5 billion reais) monthly using the following technologies: React, Webpack and Federated Modules, Dynatrace, Typescript, Jenkins, Spring Boot, Spring Data, Kafka, Oracle Database and Quarkus. As a systems specialist, I was able to help the team improve some engineering processes aligned with industry best practices. I also helped the team delivery the order's microfrontend, the first microfrontend inside the Employer Super Portal.",
   },
