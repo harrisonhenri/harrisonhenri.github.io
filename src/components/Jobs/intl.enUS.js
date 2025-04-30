@@ -2,6 +2,12 @@ import { LTDA } from '../../constants/ltda';
 
 const jobs_enUS = {
   title: 'Work experience',
+  [LTDA.BOTICARIO]: {
+    company: 'Grupo Boticário',
+    employ: 'Systems specialist',
+    date: 'started in april of 2025 until now',
+    description: 'System specialist.'
+  },
   [LTDA.VR]: {
     company: 'VR Benefícios',
     employ: 'Systems Specialist I',
