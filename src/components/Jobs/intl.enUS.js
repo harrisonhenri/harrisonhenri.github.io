@@ -6,7 +6,7 @@ const jobs_enUS = {
     company: 'Grupo Boticário',
     employ: 'Systems specialist',
     date: 'started in april of 2025 until now',
-    description: 'System specialist.'
+    description: 'System specialist.',
   },
   [LTDA.VR]: {
     company: 'VR Benefícios',
