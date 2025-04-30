@@ -8,7 +8,7 @@ const header_enUS = {
     certification:
       '<strong>Certifications:</strong> AWS Solutions Architect, Ignite, Full Cycle, Data Science Codenation.',
     employ:
-      '<strong>Current role:</strong> Systems Specialist at <company>VR Benefícios</company>',
+      '<strong>Current role:</strong> Systems specialist at <company>Grupo Boticário</company>',
   },
   bio: {
     title: 'Bio',
