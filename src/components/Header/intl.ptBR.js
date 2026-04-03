@@ -4,7 +4,7 @@ const header_ptBR = {
     email: 'harrisonhenrisn@gmail.com',
     location: 'Salvador - BA',
     formation:
-      '<strong>Formação:</strong> Engenharia Eletrônica - UFBA (Salvador - BA) - 2014/2020',
+      '<strong>Formação:</strong> Engenharia Eletrônica - UFBA (Salvador - BA) - 2014/2020. Atualmente cursando Mestrado em Machine Learning e Teoria de Controle na UFBA - 2026/2028.',
     certification:
       '<strong>Certificados: </strong> AWS Solutions Architect, Ignite, Full Cycle, Data Science Codenation.',
     employ:
