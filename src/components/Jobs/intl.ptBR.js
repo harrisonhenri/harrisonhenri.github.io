@@ -34,7 +34,7 @@ const jobs_ptBR = {
     employ: 'Engenheiro full stack pleno',
     date: 'início em outubro à agosto de 2020',
     description:
-      'Engenheiro full stack pleno atuando no time de onboarding do Pede Pronto (unidade de negócios da Alelo S.A) usando as seguintes tecnologias: React, React testing library, Apollo, Graphql, Flask, Material UI, assim como toda infrastrutura do GCP e Firebase. Atualmente a empresa está migrando sua arquitetura para uma arquitetura baseada em microsserviços (usando o kong como API Gateway).',
+      'Engenheiro full stack pleno atuando no time de onboarding do Pede Pronto (unidade de negócios da Alelo S.A) usando as seguintes tecnologias: React, React testing library, Apollo, Graphql, Flask, Material UI, assim como toda infrastrutura do GCP, Firebase e Salesforce. Atualmente a empresa está migrando sua arquitetura para uma arquitetura baseada em microsserviços (usando o kong como API Gateway).',
   },
   [LTDA.ONYO]: {
     company: 'ONYO',

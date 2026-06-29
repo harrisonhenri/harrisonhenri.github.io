@@ -34,7 +34,7 @@ const jobs_enUS = {
     employ: 'Full stack engineer',
     date: 'started in october of 2020 until august of 2022',
     description:
-      "Full stack Engineer working in the Pede Pronto's onboarding team (business unit of Alelo S.A) using the following technologies: React, React testing library, Apollo, Graphql, Flask, Material UI as well as Google Cloud Platform and Firebase technologies. Nowadays the company is migrating its architecture for a microservice and multi-stack based architecture (using the kong as API Gateway).",
+      "Full stack Engineer working in the Pede Pronto's onboarding team (business unit of Alelo S.A) using the following technologies: React, React testing library, Apollo, Graphql, Flask, Material UI as well as Google Cloud Platform, Firebase technologies and Salesforce integration. Nowadays the company is migrating its architecture for a microservice and multi-stack based architecture (using the kong as API Gateway).",
   },
   [LTDA.ONYO]: {
     company: 'ONYO',
